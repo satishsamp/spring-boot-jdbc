@@ -18,6 +18,8 @@ import org.springframework.web.bind.annotation.RestController;
 import com.example.springbootjdbc.entity.Tutorial;
 import com.example.springbootjdbc.service.TutorialService;
 
+
+//This is main RestController class.
 @RestController
 @RequestMapping("/api")
 public class TutorialController {
