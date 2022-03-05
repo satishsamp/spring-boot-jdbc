@@ -1,5 +1,6 @@
 package com.example.springbootjdbc.entity;
 
+// Hey want to add this comments.
 public class Tutorial {
 
 	  private long id;
