@@ -7,6 +7,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
 
+//This is RestController for handling the exceptions.
 @RestControllerAdvice
 public class TutorialExceptionHandler {
 	
