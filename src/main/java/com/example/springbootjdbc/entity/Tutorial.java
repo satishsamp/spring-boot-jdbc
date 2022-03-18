@@ -13,6 +13,7 @@ package com.example.springbootjdbc.entity;
 // comment 11
 public class Tutorial {
 // Comment 1 - Akash
+// Comment 2 - Akash
 	  private long id;
 	  private String title;
 	  private String description;
