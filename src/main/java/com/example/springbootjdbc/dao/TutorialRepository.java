@@ -4,6 +4,8 @@ import java.util.List;
 
 import com.example.springbootjdbc.entity.Tutorial;
 
+
+//comment on the TutorialRepository added.
 public interface TutorialRepository {
   int save(Tutorial book);
 
