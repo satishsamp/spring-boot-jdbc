@@ -10,7 +10,7 @@ import org.springframework.stereotype.Repository;
 
 import com.example.springbootjdbc.dao.TutorialRepository;
 import com.example.springbootjdbc.entity.Tutorial;
-
+//This is implementation of the JdbcTutorialRepository
 @Repository
 public class JdbcTutorialRepository implements TutorialRepository {
 
