@@ -7,7 +7,10 @@ import org.springframework.stereotype.Service;
 @SpringBootApplication
 public class SpringbootjdbcApplication {
 	
-	// points to note
+	// points to note  ( to work this application ,we need to create
+	//  below table in the h2 database.
+	// how to h2 console url is below
+	//  http://localhost:8080/h2-console
 	// examle referred from -- https://www.bezkoder.com/spring-boot-jdbctemplate-example-mysql/
 	// Tutorial is not marked with @entity.. so create dabase table manually
 	/* CREATE TABLE tutorials
