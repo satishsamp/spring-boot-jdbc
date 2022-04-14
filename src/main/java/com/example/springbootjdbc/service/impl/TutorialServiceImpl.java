@@ -10,6 +10,7 @@ import com.example.springbootjdbc.dao.TutorialRepository;
 import com.example.springbootjdbc.entity.Tutorial;
 import com.example.springbootjdbc.service.TutorialService;
 // changes added to serviceImpl
+// second changes added to the serviceImpl
 @Service
 public class TutorialServiceImpl implements TutorialService {
 	@Autowired
