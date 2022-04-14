@@ -9,7 +9,7 @@ import org.springframework.stereotype.Service;
 import com.example.springbootjdbc.dao.TutorialRepository;
 import com.example.springbootjdbc.entity.Tutorial;
 import com.example.springbootjdbc.service.TutorialService;
-
+// changes added to serviceImpl
 @Service
 public class TutorialServiceImpl implements TutorialService {
 	@Autowired
