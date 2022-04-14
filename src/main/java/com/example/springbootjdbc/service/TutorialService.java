@@ -3,8 +3,7 @@ package com.example.springbootjdbc.service;
 import java.util.List;
 //changes added to serviceImpl
 //second changes added to the serviceImpl
-
-
+// This change is through the eclipse
 import com.example.springbootjdbc.entity.Tutorial;
 
 public interface TutorialService {
