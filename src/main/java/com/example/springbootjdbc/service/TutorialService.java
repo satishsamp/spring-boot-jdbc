@@ -8,7 +8,8 @@ import java.util.List;
 // this is change from intelliJ 2
 // This  change is trhough the eclipse 2
 import com.example.springbootjdbc.entity.Tutorial;
-
+// This is reset test 1
+// This is reset test 2
 public interface TutorialService {
 	public void save(Tutorial tutorial);
 
