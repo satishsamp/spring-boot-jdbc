@@ -5,8 +5,13 @@ import java.util.List;
 //second changes added to the serviceImpl
 // This change is through the eclipse
 // This  change is trhough the eclipse 2
+
+//  Ths is new changes committed through eclipse in teh master
+// Ths is new changes committed through eclipse in teh master
+
 // this is change from intelliJ
 // This change is through the eclipse
+
 
 import com.example.springbootjdbc.entity.Tutorial;
 
