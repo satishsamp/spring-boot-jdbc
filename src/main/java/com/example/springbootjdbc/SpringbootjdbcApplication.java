@@ -6,6 +6,7 @@ import org.springframework.stereotype.Service;
 
 @SpringBootApplication
 public class SpringbootjdbcApplication {
+	// This is spring boot main class.
 	
 	// points to note  ( to work this application ,we need to create
 	//  below table in the h2 database.
